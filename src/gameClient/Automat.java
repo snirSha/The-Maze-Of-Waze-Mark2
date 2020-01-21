@@ -19,14 +19,13 @@ import utils.StdDraw;
 
 
 public class Automat{
-
 	game_service game;
 	public Graph_Algo ga;
 	MyGameGUI mgg;
 	int scenario;
 	private List<String> log;
 	private Thread thread;
-	private long dt = 100;
+	private long dt = 110;
 
 	private static double EPS = 0.00001;
 
@@ -64,7 +63,7 @@ public class Automat{
 			mgg.refreshDraw();
 			mgg.drawFruits(game);
 			mgg.drawRobots(game);
-			if (tmpTime - game.timeToEnd() > 300L) {
+			if (tmpTime - game.timeToEnd() > 103L) {
 				kml.addRobotsFruits(mgg.robots, mgg.fruits);
 				tmpTime = game.timeToEnd();
 			}
@@ -176,10 +175,11 @@ public class Automat{
 						b.setNode(path.get(0));
 						path.remove(0);
 						
-						double roboFruitDist = b.getLocation().distance2D(b.getFruitPos());
-						if(roboFruitDist <= EPS) {
-							this.dt /= 2;
-						}else this.dt = 100;
+						//double roboFruitDist = b.getLocation().distance2D(b.getFruitPos());
+						//if(roboFruitDist <= EPS) {
+						//	this.dt /= 2;
+						//}else
+							this.dt = 100;
 						
 					
 						if(path.size() == 0){
