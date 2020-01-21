@@ -1,19 +1,17 @@
 package gameClient;
 
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
-import java.sql.Date;
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Collection;
+import java.util.Date;
 import java.util.HashMap;
 
-import Server.game_service;
+import dataStructure.DGraph;
 import dataStructure.Fruit;
 import dataStructure.Robot;
 import dataStructure.graph;
@@ -64,6 +62,11 @@ public class KML_Logger {
 	}
 	
 	
+	public KML_Logger(DGraph dg) {
+		addNodes(dg);
+	}
+
+
 	/**
 	 * add the location of the nodes to the kml file
 	 * @param g the graph that held the nodes
@@ -79,8 +82,8 @@ public class KML_Logger {
 	 * @param fruits
 	 */
 	public void addRobotsFruits(HashMap<Integer, Robot> robots,
-			HashMap<Point3D, Fruit> fruits) {
-		Date date = new Date(0);
+			HashMap<Point3D, Fruit> fruits) { 
+		Date date = new Date();
 		DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
 		DateFormat df2 = new SimpleDateFormat("HH:mm:ss");
 		String timeStr = df.format(date);
@@ -88,14 +91,14 @@ public class KML_Logger {
 		String finalDate = timeStr+"T"+timeStr2+"Z";
 
 		for (Robot robot : robots.values()) {		
-			SBans.append("<Placemark>\n" + "      <TimeStamp>\n" + "        <when>").append(finalDate).append("</when>\n").append("      </TimeStamp>\n").append("      <styleUrl>#hiker-icon</styleUrl>\n").append("      <Point>\n").append("        <coordinates>").append(robot.getLocation().x()).append(",").append(robot.getLocation().y()).append(",0</coordinates>\n").append("      </Point>\n").append("    </Placemark>");
+			SBans.append("<Placemark>\n" + "      <TimeStamp>\n" + "        <when>").append(finalDate).append("</when>\n").append("      </TimeStamp>\n").append("      <styleUrl>#hiker-icon</styleUrl>\n").append("      <Point>\n").append("        <coordinates>").append(robot.getLocation().x()).append(",").append(robot.getLocation().y()).append(",0</coordinates>\n").append("      </Point>\n").append("    </Placemark>\n");
 		}
 		for (Fruit fruit : fruits.values()) {
 			String typer = "#paddle-a";
 			if (fruit.getType() == -1){
 				typer = "#paddle-b";
 			}
-			SBans.append("<Placemark>\n" + "      <TimeStamp>\n" + "        <when>").append(finalDate).append("</when>\n").append("      </TimeStamp>\n").append("      <styleUrl>").append(typer).append("</styleUrl>\n").append("      <Point>\n").append("        <coordinates>").append(fruit.getP().x()).append(",").append(fruit.getP().y()).append(",0</coordinates>\n").append("      </Point>\n").append("    </Placemark>");
+			SBans.append("<Placemark>\n" + "      <TimeStamp>\n" + "        <when>").append(finalDate).append("</when>\n").append("      </TimeStamp>\n").append("      <styleUrl>").append(typer).append("</styleUrl>\n").append("      <Point>\n").append("        <coordinates>").append(fruit.getP().x()).append(",").append(fruit.getP().y()).append(",0</coordinates>\n").append("      </Point>\n").append("    </Placemark>\n");
 		}
 		
 
@@ -125,6 +128,10 @@ public class KML_Logger {
 	 * @return the string of the kml file
 	 */
 	public String getLogOfGame() {
+		
+//		SBans.append("  </Document>\n" +
+//				"</kml>");
+		
         return SBans.toString();
     }
 }
