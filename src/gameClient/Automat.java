@@ -19,6 +19,8 @@ import utils.StdDraw;
 
 
 public class Automat{
+	static int counterEnterDB=0;
+	static int currentLevel;
 	game_service game;
 	public Graph_Algo ga;
 	MyGameGUI mgg;
@@ -34,10 +36,12 @@ public class Automat{
 
 		int id = 204040687;
 		Game_Server.login(id);
+		counterEnterDB++;
 		this.game = game;
 		this.mgg = mgg;
 		ga = mgg.ga;
 		game = gameAutoScenario(s);
+		currentLevel=s;
 		mgg.initFruits(game);
 		mgg.initRobots(game);
 
@@ -45,6 +49,16 @@ public class Automat{
 		runAutoScenario(game);
 	}
 
+	public int getCounterEnterDB() {
+		return counterEnterDB;
+	}
+	public int getCurrentLevel() {
+		return currentLevel;
+	}
+//	public int getBestScore(int levelTmp) {
+//		
+//	}
+	
 	/**
 	 * starting the auto game
 	 * @param game
