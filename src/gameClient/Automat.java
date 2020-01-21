@@ -19,7 +19,7 @@ import utils.StdDraw;
 
 
 public class Automat{
-	static int counterEnterDB=0;
+	static int counterEnterDB = 0;
 	static int currentLevel;
 	game_service game;
 	public Graph_Algo ga;
@@ -255,23 +255,66 @@ public class Automat{
 			
 		}
 		
-
-//		for (Fruit fruit : f) {
-//			if(i >= rs)break;
-//			if(!fruit.isTaken()) {
-//				edge_data e = fruit.getEdge();
-//				int minNode = Math.min(e.getDest(), e.getSrc());
-//				int maxNode = Math.max(e.getDest(), e.getSrc());
-//
-//				if(fruit.getType() == -1) {
-//					game.addRobot(maxNode);
+		/*locate the robots near the highest value fruits */	
+//		Fruit biggestValue = null;
+//		for (Fruit fruit0 : f) {
+//			if (i >= rs)break;
+//			if(fruit0.isTaken())continue;
+//			biggestValue = null;
+//			for (Fruit fruit1 : f) {
+//				System.out.println(fruit1.getValue());
+//				if(fruit1.isTaken())continue;
+//				if (fruit0.getValue() > fruit1.getValue()) {
+//					if(biggestValue == null || (fruit0.getValue() > biggestValue.getValue())) {
+//						biggestValue = fruit0;
+//					}
 //				}else {
-//					game.addRobot(minNode);
+//					if(biggestValue == null || (fruit1.getValue() > biggestValue.getValue() && !fruit1.isTaken())) {
+//						biggestValue = fruit1;
+//					}
 //				}
-//				fruit.setTaken(true);
-//				i++;
 //			}
+//			
+//			int minNode = 0;
+//			int maxNode = 0;
+//			int nodeKey = 0;
+//			
+//			if(biggestValue != null) {
+//				edge_data e = biggestValue.getEdge();
+//				minNode = Math.min(e.getDest(), e.getSrc());
+//				maxNode = Math.max(e.getDest(), e.getSrc());
+//				
+//				if(biggestValue.getType() == -1) {
+//					nodeKey = maxNode;
+//					
+//				}else {
+//					nodeKey = minNode;	
+//				}
+//				biggestValue.setTaken(true);
+//			}
+//			
+//			game.addRobot(nodeKey);
+//			System.out.println("robot: " + i + ",  starts at node: " + nodeKey + ", fruit val: " + biggestValue.getValue());
+//			i++;
 //		}
+		
+
+		for (Fruit fruit : f) {
+			if(i >= rs)break;
+			if(!fruit.isTaken()) {
+				edge_data e = fruit.getEdge();
+				int minNode = Math.min(e.getDest(), e.getSrc());
+				int maxNode = Math.max(e.getDest(), e.getSrc());
+
+				if(fruit.getType() == -1) {
+					game.addRobot(maxNode);
+				}else {
+					game.addRobot(minNode);
+				}
+				fruit.setTaken(true);
+				i++;
+			}
+		}
 
 		return game;
 	}
