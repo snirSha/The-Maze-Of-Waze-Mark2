@@ -126,5 +126,10 @@ public class Edge implements edge_data, Serializable{
 		this._weight=w;
 	}
 	
+	public String toString() {
+		return this._src + " ---> " + this._dst;
+		
+	}
+	
 
 }

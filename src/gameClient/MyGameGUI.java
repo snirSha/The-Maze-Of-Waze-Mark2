@@ -603,8 +603,7 @@ public class MyGameGUI {
 	 */
 	public void initRobots(game_service game) {
 		List<String> r_list = game.getRobots();
-		if(robots != null)
-		{
+		if(robots != null){
 			robots.clear();
 		}
 		else robots = new HashMap<>();

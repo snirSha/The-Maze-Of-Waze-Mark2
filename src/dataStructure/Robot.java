@@ -15,6 +15,8 @@ public class Robot {
 	graph g;
 	int speed;
 	List <node_data> Track;
+	private Point3D fruitPos;
+
 	
 	public Robot() {	
 		this.id = -1;
@@ -44,7 +46,8 @@ public class Robot {
 		this.speed = speed;
 		Track = track;	
 	}
-
+	
+	
 	/**
 	 * initializing robot from json string
 	 * @param robot_json the json string
@@ -138,4 +141,12 @@ public class Robot {
 	public void setTrack(List<node_data> track) {
 		Track = track;
 	}	
+	
+	public Point3D getFruitPos() {
+		return fruitPos;
+	}
+	
+	public void setFruitPos(Point3D pos) {
+		this.fruitPos = new Point3D(pos);
+	}
 }
