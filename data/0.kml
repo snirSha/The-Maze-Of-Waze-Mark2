@@ -99,1571 +99,5079 @@
   </Placemark>
 <Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19693444799091,32.1017587274981,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.1987269057058,32.102155916733224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19992517854282,32.10242144102853,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.201717636257705,32.102818630263656,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20291095755408,32.10308305735113,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.203805425222896,32.10306052652828,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20443309496337,32.10297230108082,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.205372005897466,32.10284032747758,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20599708196133,32.102752466598076,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.206935992895424,32.102620492994845,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20746249717514,32.10254648739496,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20762540266327,32.10330089279987,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.207736453728415,32.1038151635266,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20790257143743,32.10458444453104,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.207785837872756,32.10481467928389,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20732968989698,32.10514997984347,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20702601127223,32.105373204801644,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20656860321917,32.10570943160587,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.206264924594414,32.10593265656404,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20582803389831,32.10625380168067,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20516281228226,32.10621583349112,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.204138087920526,32.10615734632253,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20345305119251,32.10611824716563,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20242832683078,32.106059759997045,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20174612083304,32.10602082240691,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20103262420358,32.105905767347764,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.20035968604331,32.10579112937768,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19934888266565,32.10561893458444,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19867315223086,32.10550382093813,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.1976623488532,32.10533162614489,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19711205994358,32.10538963488221,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.1957544073305,32.10565325855211,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.194846805307385,32.105829493160165,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19349290311588,32.10609238858788,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19317205698199,32.10621722712107,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19236361401132,32.10658636865481,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19155739815627,32.106954493269726,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.191018436175824,32.107200587625556,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.190212220320774,32.107568712240464,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18967548545594,32.107813789677465,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19009185043329,32.10762367409491,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.190615817280225,32.10738442663711,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19139960239837,32.10702654407628,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.191921404093044,32.10678828524434,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19270518921119,32.10643040268351,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19322699090586,32.106192143851565,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.1942602136932,32.105943395223605,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19513167552458,32.10577417817651,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.1964352671897,32.10552105184986,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19730312793913,32.105352534046766,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19820908272287,32.10542476465998,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.198910172304224,32.10554419834825,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.199966170304364,32.10572409224385,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.200667259885726,32.105843525932116,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.2016888087167,32.10601755126051,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.201029831929056,32.10590529167154,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.200019028551395,32.1057330968783,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.197528356739305,32.1053088,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.1948430548858,32.10583022140235,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19182910626211,32.10683042917299,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.190755636532465,32.10732058404699,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18907055110784,32.1068269698796,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18828117208093,32.1052663157617,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18775564626467,32.104227316749515,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18803764667179,32.10372945584673,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18855765007385,32.10367531042137,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.18910131880549,32.103618700840336,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.19207031800444,32.10272433600207,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-b</styleUrl>
-      <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:57Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
         <coordinates>35.19597880064568,32.10154696638656,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:57Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+        <coordinates>35.197656770719604,32.10191878639921,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:57Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.19829612166935,32.10206045965186,0</coordinates>
+        <coordinates>35.1963452146537,32.101628159766115,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:57Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+        <coordinates>35.197656770719604,32.10191878639921,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:58Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.20188103709912,32.102854838122106,0</coordinates>
+        <coordinates>35.196845320259236,32.10173897775713,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:58Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197840579929654,32.10195951653133,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.198340685535186,32.102070334522345,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.198840791140725,32.10218115251336,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.199335945205604,32.10229087329654,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19983605081114,32.10240169128756,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.200336156416675,32.102512509278576,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20083626202221,32.10262332726959,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20133141608709,32.10273304805277,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20183152169263,32.10284386604379,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:58Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:59Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.202331627298165,32.102954684034806,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:59Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:59Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2028317329037,32.10306550202582,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:59Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
         <coordinates>35.20319591121872,32.1031462,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.20504260896755,32.1028866276091,0</coordinates>
+        <coordinates>35.20343712314378,32.10311229517928,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.20629276109527,32.102710905850095,0</coordinates>
+        <coordinates>35.20369908448175,32.10307547381484,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.207566206021106,32.103026756751326,0</coordinates>
+        <coordinates>35.2039584521431,32.10303901701836,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.20778830815139,32.104055298204784,0</coordinates>
+        <coordinates>35.20422041348106,32.10300219565393,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.2076421890627,32.104920271172816,0</coordinates>
+        <coordinates>35.20448237481903,32.10296537428949,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.207034831813196,32.10536672108917,0</coordinates>
+        <coordinates>35.204744336157,32.10292855292505,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:58:59Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.206122535861645,32.10603732220833,0</coordinates>
+        <coordinates>35.20500370381835,32.10289209612857,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.204497590666215,32.10617786530157,0</coordinates>
+        <coordinates>35.20526566515631,32.10285527476414,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.203133178670754,32.106099990121294,0</coordinates>
+        <coordinates>35.20578958783225,32.10278163203526,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.2016888087167,32.10601755126051,0</coordinates>
+        <coordinates>35.2060489554936,32.10274517523878,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.200365270592364,32.10579208073013,0</coordinates>
+        <coordinates>35.20631091683156,32.10270835387434,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
       </TimeStamp>
-      <styleUrl>#paddle-a</styleUrl>
+      <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20657287816953,32.10267153250991,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20683224583088,32.10263507571343,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20709420716885,32.10259825434899,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20735616850681,32.10256143298455,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:00Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20746249717514,32.10254648739496,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20750379715805,32.10273774510325,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20755014491664,32.102952378753656,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.207596492675236,32.10316701240407,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20764238154513,32.103379520968836,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.207688729303726,32.103594154619245,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20778142482091,32.10402342192007,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20782731369081,32.10423593048483,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2078736614494,32.10445056413524,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20792000920799,32.10466519778565,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:01Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20792948668281,32.10470908739496,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.207814819650224,32.104793375657174,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20768755184483,32.104886926365786,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20756028403943,32.1049804770744,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20743427631132,32.10507310153837,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20730700850592,32.105166652246986,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.207179740700525,32.1052602029556,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20705247289513,32.10535375366421,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.206926465167015,32.105446378128185,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:02Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20679919736162,32.1055399288368,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20667192955622,32.10563347954541,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.206544661750826,32.10572703025402,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.206291386217316,32.10591320542661,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20616411841192,32.10600675613522,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20603685060652,32.106100306843835,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20591084287841,32.10619293130781,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20582803389831,32.10625380168067,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.205559114521606,32.106238452838085,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:03Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.205276041493505,32.10622229616168,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.204990137735116,32.10620597791851,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.204704233976734,32.106189659675344,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.204418330218346,32.106173341432175,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.204135257190245,32.10615718475577,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.203849353431856,32.106140866512604,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.203563449673474,32.106124548269435,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.203277545915086,32.106108230026265,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.202994472886985,32.106092073349856,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.202708569128596,32.10607575510669,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:04Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.202422665370214,32.10605943686352,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20213959234211,32.106043280187116,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.201853688583725,32.10602696194395,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20142633491145,32.10597283769541,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.201147107459065,32.105925270072966,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.199963710098416,32.105723673136964,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20086508773215,32.105877226774304,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20058306800523,32.105829183475635,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20030104827831,32.105781140176965,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20002182082592,32.10573357255453,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:05Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.199739801099,32.10568552925586,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19945778137208,32.10563748595719,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.199178553919694,32.10558991833475,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19889653419278,32.10554187503608,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19861451446586,32.10549383173742,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19833249473894,32.10544578843875,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.198053267286554,32.105398220816305,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197771247559636,32.10535017751764,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197528356739305,32.1053088,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19717581711049,32.105377254765116,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:06Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19680077495218,32.10545007898332,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.196421982372286,32.10552363144371,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.195224052340706,32.10575624080796,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19604318979239,32.105597183904095,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19494883961552,32.105809680537625,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.195289355054186,32.10574356058268,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19491056247429,32.105817113043074,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.194531769894404,32.10589066550346,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19415672773609,32.10596348972166,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1937779351562,32.106037042182045,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:07Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
         <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:07Z</when>
       </TimeStamp>
-      <styleUrl>#paddle-a</styleUrl>
+      <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#hiker-icon</styleUrl>
-      <Point>
-        <coordinates>35.190793497498035,32.10730329642695,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
-      </TimeStamp>
-      <styleUrl>#paddle-a</styleUrl>
-      <Point>
-        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:08Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.18831388115663,32.105330983750015,0</coordinates>
+        <coordinates>35.193203236600695,32.106202990257515,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:08Z</when>
       </TimeStamp>
-      <styleUrl>#paddle-a</styleUrl>
+      <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:08Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.18753053591606,32.10378225882353,0</coordinates>
+        <coordinates>35.19298052503853,32.106304682140085,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:08Z</when>
       </TimeStamp>
-      <styleUrl>#paddle-a</styleUrl>
+      <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19275558636073,32.106407390941484,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19253064768294,32.106510099742884,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.192305709005154,32.106612808544284,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19208299744299,32.106714500426854,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1918580587652,32.106817209228254,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19163312008741,32.106919918029654,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.191410408525236,32.10702160991222,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:08Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19038634163924,32.10748920705224,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19118546984745,32.10712431871362,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19096053116966,32.10722702751502,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19073559249187,32.10732973631642,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.190287942251906,32.10753413700039,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19006300357412,32.10763684580179,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18983806489633,32.10773955460319,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18961535333416,32.10784124648576,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:09Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
         <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:09Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:09Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.19209028596933,32.10671117242737,0</coordinates>
+        <coordinates>35.189790894269144,32.107761093089266,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:09Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:09Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.19539095342483,32.10572383260878,0</coordinates>
+        <coordinates>35.19000957464741,32.10766124187754,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:09Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.19537186432902,32.10572753925468,0</coordinates>
+        <coordinates>35.19022608987342,32.10756237929167,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.190793497498035,32.10730329642695,0</coordinates>
+        <coordinates>35.19044477025168,32.10746252807995,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.18897351418326,32.10663512151427,0</coordinates>
+        <coordinates>35.19066345062995,32.10736267686822,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
-        <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.190879965855956,32.107263814282355,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.191098646234224,32.10716396307063,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19131732661249,32.10706411185891,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19153600699075,32.10696426064718,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19175252221676,32.106865398061316,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19197120259503,32.106765546849594,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:10Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.192189882973295,32.106665695637865,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.192625078577564,32.10646698184028,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19284375895583,32.10636713062855,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1930624393341,32.10626727941683,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19327895456011,32.10616841683096,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19375246113856,32.10604198862708,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.194116170415285,32.10597136498345,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19447627861007,32.10590144058383,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1948399878868,32.105830816940205,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:11Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.195203697163535,32.10576019329658,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19556740644027,32.10568956965296,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19592751463505,32.105619645253334,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.196291223911786,32.10554902160972,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19665493318852,32.105478397966095,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197018642465245,32.10540777432247,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19737875066003,32.10533784992285,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197528356739305,32.1053088,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197804719852286,32.10535587966965,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:12Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.198095628392274,32.10540543721665,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19868326364304,32.10550554346159,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.198977081268424,32.105555596584054,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.199267989808405,32.105605154131055,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19956180743379,32.10565520725352,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19985562505917,32.10570526037599,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.200149442684555,32.105755313498456,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20044035122454,32.10580487104546,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20073416884993,32.10585492416793,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2010279864753,32.10590497729039,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:13Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20132180410069,32.105955030412865,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.201612712640674,32.10600458795986,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2016888087167,32.10601755126051,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20142633491145,32.10597283769541,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.201144315184536,32.10592479439674,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20086508773215,32.105877226774304,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20058306800523,32.105829183475635,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20030104827831,32.105781140176965,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.1992728373109,32.105605979924384,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.200019028551395,32.1057330968783,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:14Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1977907934813,32.10535350725121,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197528356739305,32.1053088,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19605069063556,32.105595727419725,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19529310547577,32.1057428323405,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19453552031598,32.105889937261274,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1937779351562,32.106037042182045,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19300056907912,32.10629552987066,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19255069172354,32.10650094747345,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:15Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19210081436796,32.10670636507625,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19165093701238,32.10691178267905,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19120551388804,32.10711516644419,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.190755636532465,32.10732058404699,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19030575917688,32.10752600164979,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18986033605255,32.107729385414935,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18893516072167,32.10655929420479,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18938237762952,32.10744347136816,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18887602099216,32.106442371080114,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.189162136519805,32.10700804024687,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18894407601513,32.1065769203248,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:16Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18872383490541,32.10614148920351,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.188503593795694,32.10570605808221,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18806529218131,32.104839507038854,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.187845051071584,32.104404075917564,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18762480996187,32.103968644796275,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
         <coordinates>35.18753053591606,32.10378225882353,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18773252070859,32.10376122712938,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18794954692185,32.10373862924524,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.188166573135106,32.10371603136111,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:17Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18838145057397,32.10369365721839,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18859847678723,32.10367105933426,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.188815503000484,32.10364846145012,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18903252921374,32.10362586356599,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18910131880549,32.103618700840336,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19027628444592,32.103264760712854,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19155232239952,32.10288037412279,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.192828360353104,32.10249598753272,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19409176426755,32.10211540675048,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.195367802221135,32.101731020160415,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:18Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19597880064568,32.10154696638656,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19690969028767,32.101753241458944,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.198910112709804,32.102196513423,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.199910323920875,32.10241814940503,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20090063205065,32.102637590971405,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20190084326171,32.102859226953434,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20290105447278,32.103080862935464,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20319591121872,32.1031462,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20368870977529,32.103076932086694,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:19Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.204212632451224,32.10300328935782,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.20539663533063,32.10283686555705,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.204736555127155,32.102929646628944,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20525529044986,32.10285673303599,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.205779213125794,32.10278309030711,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.206303135801726,32.10270944757824,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20682705847766,32.10263580484936,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.207345793800364,32.10256289125641,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20746249717514,32.10254648739496,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20754785047315,32.10294175332542,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20764054599033,32.10337102062624,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:20Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20773232373012,32.10379603775577,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20782501924731,32.104225305056595,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2079177147645,32.10465457235741,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.207695112308514,32.10488136889795,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20744057669772,32.105068470315175,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20718604108693,32.1052555717324,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2069340256307,32.10544082066035,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20667949001991,32.10562792207757,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.206424954409115,32.1058150234948,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:21Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20617041879833,32.106002124912024,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.205918403342096,32.106187373839965,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20582803389831,32.10625380168067,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20528453368435,32.10622278086198,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20471272616758,32.10619014437564,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20414658011137,32.10615783102283,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2035747725946,32.10612519453649,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20300296507783,32.10609255805015,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20243681902162,32.10606024469734,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:22Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.20186501150485,32.106027608211,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.2016888087167,32.10601755126051,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19974476565152,32.105686374989176,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.200594237103324,32.10583108618053,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19754228104867,32.10531117206724,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197528356739305,32.1053088,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19576565859524,32.10565107382556,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19389044780369,32.10601519491659,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.1923413428551,32.10659653784307,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19121664946615,32.10711008185006,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:23Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19010309165531,32.10761854126293,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.189066189897744,32.10681834748115,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18852103863607,32.10574054767598,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18797043586177,32.104651969872755,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18753053591606,32.10378225882353,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-a</styleUrl>
+      <Point>
+        <coordinates>35.188500771222955,32.10570047767076,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18822890219365,32.10516297476576,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.188964024591115,32.10661635996811,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:24Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19170055856252,32.10688912508192,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.192783134692554,32.106394812152594,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19510286686899,32.10577977212848,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19692141325265,32.10542665391037,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.197528356739305,32.1053088,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19565793847981,32.10567199049591,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19578441070316,32.10564743261465,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19389044780369,32.10601519491659,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19341035835351,32.10610841680672,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19238588516754,32.10657619946655,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:25Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19126119177859,32.10708974347355,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.190136498389634,32.10760328748054,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.188827745913414,32.10634692808267,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.189071641410365,32.10682912547921,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
         <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:26Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.188803684741345,32.10364969202797,0</coordinates>
+        <coordinates>35.18852103863607,32.10574054767598,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:26Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
         <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:26Z</when>
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>35.187532036913204,32.103782102531994,0</coordinates>
+        <coordinates>35.18797043586177,32.104651969872755,0</coordinates>
       </Point>
-    </Placemark><Placemark>
+    </Placemark>
+<Placemark>
       <TimeStamp>
-        <when>1970-01-01T02:00:00Z</when>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18753053591606,32.10378225882353,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18804086983337,32.10372912023459,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18858343536651,32.10367262552425,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:26Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18910131880549,32.103618700840336,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.18867176864414,32.103663427809636,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18778579313408,32.10375568013079,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
       </TimeStamp>
       <styleUrl>#paddle-b</styleUrl>
       <Point>
         <coordinates>35.19580080140219,32.10564424993287,0</coordinates>
       </Point>
-    </Placemark>  </Document>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18753053591606,32.10378225882353,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19580080140219,32.10564424993287,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18820684852173,32.10511937320969,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19580080140219,32.10564424993287,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.188949322143166,32.10658729226406,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19580080140219,32.10564424993287,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.18958953510896,32.10785303529412,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19580080140219,32.10564424993287,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#hiker-icon</styleUrl>
+      <Point>
+        <coordinates>35.19057467938729,32.10740321052843,0</coordinates>
+      </Point>
+    </Placemark>
+<Placemark>
+      <TimeStamp>
+        <when>2020-01-21T18:59:27Z</when>
+      </TimeStamp>
+      <styleUrl>#paddle-b</styleUrl>
+      <Point>
+        <coordinates>35.19580080140219,32.10564424993287,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>

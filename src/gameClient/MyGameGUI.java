@@ -549,21 +549,24 @@ public class MyGameGUI {
 		String results = game.toString();
 		long t = game.timeToEnd();
 		try {
-			int scoreInt=0;
+			int scoreInt = 0;
+			int movesInt = 0;
 			JSONObject score = new JSONObject(results);
 			JSONObject ttt = score.getJSONObject("GameServer");
 			scoreInt = ttt.getInt("grade");
-
-			String countDown = "Time: " + t / 1000 + "." + t % 1000;
+			movesInt = ttt.getInt("moves");
+			String countDown = "Time: " + t / 1000;
 			String scoreStr = "Score: " + scoreInt;
+			String movesStr = "Moves: " + movesInt;
 			double tmp1 = xMax - xMin;
 			double tmp2 = yMax - yMin;
 
 			StdDraw.setPenRadius(0.05);
 			StdDraw.setPenColor(Color.BLACK);
-			StdDraw.text(xMin+tmp1 / 1.05 , yMin + tmp2 / 0.95, countDown);
+			StdDraw.text(xMin+tmp1 / 1.05 , yMin + tmp2 / 0.90, countDown);
+			StdDraw.text(xMin+tmp1 / 1.05 , yMin + tmp2 / 0.95, movesStr);
 			StdDraw.text(xMin+tmp1 / 1.05 , yMin + tmp2, scoreStr);
-
+			
 		}catch (Exception e) {
 			System.out.println("Failed to print score");
 		}

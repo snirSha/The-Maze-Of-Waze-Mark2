@@ -68,10 +68,12 @@ import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
+import javax.swing.JOptionPane;
 import javax.swing.KeyStroke;
 
 import gameClient.Management;
 import gameClient.MyGameGUI;
+import gameClient.SimpleDB;
 
 
 /**
@@ -733,27 +735,24 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	// create the menu bar (changed to private)
 	private static JMenuBar createMenuBar() {
 
-//		JMenuBar menuBar = new JMenuBar();
-//		JMenu game = new JMenu("Game");
-//		JMenu algorithms = new JMenu("Algorithms");
-//		JMenu node = new JMenu("Node");
-//		JMenu edge = new JMenu("Edge");
-//		menuBar.add(game);
-//		
-//
-//		JMenuItem newGame = new JMenuItem("New game");
-//		newGame.addActionListener(std);
-//	
-//		game.add(newGame);
-
-		return null;
+		JMenuBar menuBar = new JMenuBar();
+		JMenu DB = new JMenu("DB");
+		menuBar.add(DB);
+		JMenuItem rank = new JMenuItem("My rank");	
+		rank.addActionListener(std);
+		DB.add(rank);
+		return menuBar;
 	}
 
 	@Override
-	public void actionPerformed(ActionEvent e) {
-
-
-
+	public synchronized void actionPerformed(ActionEvent e) {
+//		if(e.getActionCommand().equals("DB")) {
+			JFrame f=new JFrame();
+			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
+			int level=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter map"));
+			int ans = SimpleDB.getRank(id, level);
+			JOptionPane.showMessageDialog(f,ans);
+//		}
 	}
 
 
