@@ -19,28 +19,28 @@ public class SimpleDB {
 	 * Simple main for demonstrating the use of the Data-base
 	 * @param args
 	 */
-	public static void main(String[] args) {
-		int id1 = 204040687;  // "dummy existing ID  
-		//int level = 23;
-		//allUsers();
-		//System.out.println("getCountEntersDB: "+getCountEntersDB(id1));
-		//System.out.println("getBestScore in level "+level+": "+getBestScore(id1,level));
-		//System.out.println("getTopLevel: "+getTopLevel(id1));
-		int[][] rali=getRankInAllLevels(id1);
-		for (int i = 0; i < rali.length; i++) {
-			for (int j = 0; j < rali[i].length; j++) {
-				System.out.print(rali[i][j]+",");
-			}
-			System.out.println();
-		}
-		
-		
-		
-		//printLog();
-		//String kml = getKML(id1,level);
-		//System.out.println("** KML file example: ***");
-		//System.out.println(kml);
-	}
+//	public static void main(String[] args) {
+//		int id1 = 204040687;  // "dummy existing ID  
+//		//int level = 23;
+//		//allUsers();
+//		//System.out.println("getCountEntersDB: "+getCountEntersDB(id1));
+//		//System.out.println("getBestScore in level "+level+": "+getBestScore(id1,level));
+//		//System.out.println("getTopLevel: "+getTopLevel(id1));
+//		int[][] rali=getRankInAllLevels(id1);
+//		for (int i = 0; i < rali.length; i++) {
+//			for (int j = 0; j < rali[i].length; j++) {
+//				System.out.print(rali[i][j]+",");
+//			}
+//			System.out.println();
+//		}
+//		
+//		
+//		
+//		//printLog();
+//		//String kml = getKML(id1,level);
+//		//System.out.println("** KML file example: ***");
+//		//System.out.println(kml);
+//	}
 	
 	/*
 	 * check if the given id is in the list of users
@@ -227,7 +227,7 @@ public class SimpleDB {
 				continue;
 			else {
 					ranks[0][i]=lev;
-					ranks[1][i]=getRank(lev);
+					ranks[1][i]=getRank(idT,lev);
 					i++;
 			}
 		}
@@ -236,11 +236,12 @@ public class SimpleDB {
 	
 	/*
 	 * calculate a single rank in a level
+	 * @param ida - the id we entered
 	 * @param lev - the level we ask for
 	 * @return countBetterThanMe - all the users that get a better score and moves than us in this level
 	 */
-	public static int getRank(int lev) {
-		int myBestScore=getBestScore(204040687,lev);
+	public static int getRank(int ida, int lev) {
+		int myBestScore=getBestScore(ida,lev);
 		int moveBound=getMoveBoudary(lev);
 
 		try {
@@ -248,7 +249,7 @@ public class SimpleDB {
 			Connection connection = 
 					DriverManager.getConnection(jdbcUrl, jdbcUser, jdbcUserPassword);
 			Statement statement = connection.createStatement();
-			String allCustomersQuery = "SELECT UserID,MAX(score) FROM Logs WHERE UserID<>0 AND UserID<>999 AND UserID<>204040687 AND moves<="+moveBound+" AND levelID="+lev+" Group by UserID;";
+			String allCustomersQuery = "SELECT UserID,MAX(score) FROM Logs WHERE UserID<>0 AND UserID<>999 AND UserID<>"+ida+" AND moves<="+moveBound+" AND levelID="+lev+" Group by UserID;";
 			ResultSet resultSet = statement.executeQuery(allCustomersQuery);
 			int countBetterThanMe=0;
 			int otherPlayerScore;
