@@ -53,7 +53,7 @@ public class Management {
 			manual(s);
 			
 		}else {
-			auto(s);
+			auto(s, id);
 		}
 	}
 	
@@ -72,8 +72,8 @@ public class Management {
 	 * run auto game
 	 * @param s
 	 */
-	private void auto(int s) {
-		new Automat(s,game,mgg);
+	private void auto(int s, int id) {
+		new Automat(s,game,mgg, id);
 	}
 	
 	/**

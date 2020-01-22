@@ -31,9 +31,9 @@ public class Automat{
 	private static double EPS = 0.00001;
 
 
-	public Automat(int s, game_service game, MyGameGUI mgg) {
+	public Automat(int s, game_service game, MyGameGUI mgg, int id) {
 
-		int id = 204040687;
+		
 		Game_Server.login(id);
 		this.game = game;
 		this.mgg = mgg;
