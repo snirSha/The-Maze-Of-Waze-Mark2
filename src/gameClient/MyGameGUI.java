@@ -620,6 +620,5 @@ public class MyGameGUI {
 		}catch (Exception e) {
 
 		}
-
 	}
 }

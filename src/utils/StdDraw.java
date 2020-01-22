@@ -736,23 +736,49 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	private static JMenuBar createMenuBar() {
 
 		JMenuBar menuBar = new JMenuBar();
-		JMenu DB = new JMenu("DB");
+		JMenu DB = new JMenu("Statistics");
 		menuBar.add(DB);
-		JMenuItem rank = new JMenuItem("My rank");	
-		rank.addActionListener(std);
-		DB.add(rank);
+		JMenuItem bs = new JMenuItem("Best score");	
+		JMenuItem tl = new JMenuItem("Top level");	
+		JMenuItem nol = new JMenuItem("Number of logins");	
+
+		bs.addActionListener(std);
+		tl.addActionListener(std);
+		nol.addActionListener(std);
+
+		DB.add(bs);
+		DB.add(tl);
+		DB.add(nol);
+		
 		return menuBar;
 	}
 
 	@Override
 	public synchronized void actionPerformed(ActionEvent e) {
-//		if(e.getActionCommand().equals("DB")) {
+		if(e.getActionCommand().equals("Best score")) {
 			JFrame f=new JFrame();
 			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
 			int level=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter map"));
-			int ans = SimpleDB.getRank(id, level);
+			int ans = SimpleDB.getBestScore(id, level);
+			String ansS;
+			if(ans>-1)
+				ansS="Your best score in level "+level+" is: "+ans;
+			else
+				ansS="There's no such stage, try again";
+			JOptionPane.showMessageDialog(f,ansS);
+		}
+		else if(e.getActionCommand().equals("Top level")) {
+			JFrame f=new JFrame();
+			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
+			int ans = SimpleDB.getTopLevel(id);
 			JOptionPane.showMessageDialog(f,ans);
-//		}
+		}
+		else if(e.getActionCommand().equals("Number of logins")) {
+			JFrame f=new JFrame();
+			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
+			int ans = SimpleDB.getCountEntersDB(id);
+			JOptionPane.showMessageDialog(f,ans);
+		}
 	}
 
 
