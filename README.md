@@ -16,6 +16,13 @@ Omer Kalif
 
 ## About the project:
 
+
+******
+this project is an improvement version of an older project.
+The player resoults is now saved in data base and the player can compare his resoults to other players.
+There are levels the player should pass with minimum calling to the server, or he could not pass to the next level.
+******
+
 In this assignment we implemented a game based on the previous assignment (# graphs).
 The game has a directed weighted graph with fruits (bananas and apples) and robots.
 The aim of the robots is to collect as much fruits as possible (together).
