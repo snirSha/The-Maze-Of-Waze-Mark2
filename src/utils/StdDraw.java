@@ -484,7 +484,9 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	public static MyGameGUI gg;
 	public static Point3D pointOfMouse;
 	public static char keyPress;
+	private static int id=-1;
 
+	
 	public static void setGui(MyGameGUI g) {
 		gg = g;
 	}
@@ -741,47 +743,89 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 		JMenuItem bs = new JMenuItem("Best score");	
 		JMenuItem tl = new JMenuItem("Top level");	
 		JMenuItem nol = new JMenuItem("Number of logins");	
+		JMenuItem rank = new JMenuItem("My rank");	
 
+		
 		bs.addActionListener(std);
 		tl.addActionListener(std);
 		nol.addActionListener(std);
+		rank.addActionListener(std);
 
 		DB.add(bs);
 		DB.add(tl);
 		DB.add(nol);
+		DB.add(rank);
 		
 		return menuBar;
 	}
 
+
 	@Override
 	public synchronized void actionPerformed(ActionEvent e) {
+		JFrame f=new JFrame();
+		
+		int level = -1;
+		int ans = -1;
+		try{
+			
+			if(id == -1) {
+				String enterID = "Enter id";
+				String ID = JOptionPane.showInputDialog(f, enterID);
+				if(ID == null)return;
+				id = Integer.parseInt(ID);
+				if(!SimpleDB.isContainsID(id)) {
+					id = -1;
+					String notContainsID = "Id is not exist";
+					JOptionPane.showMessageDialog(f,notContainsID);
+					return;
+				}
+			}
+		}catch (Exception err) {//if invalid input
+			id = -1;
+			String catchStr = "Invalid input";
+			JOptionPane.showMessageDialog(f,catchStr);
+			return;
+		}
 		if(e.getActionCommand().equals("Best score")) {
-			JFrame f=new JFrame();
-			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
-			int level=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter map"));
-			int ans = SimpleDB.getBestScore(id, level);
-			String ansS;
-			if(ans>-1)
-				ansS="Your best score in level "+level+" is: "+ans;
-			else
-				ansS="There's no such stage, try again";
-			JOptionPane.showMessageDialog(f,ansS);
+			try {
+				String lvl = JOptionPane.showInputDialog(f,"Enter map");
+				if(lvl == null)return;
+				level = Integer.parseInt(lvl);
+				ans = SimpleDB.getBestScore(id, level);
+				String ansS = "";
+				if(ans > -1)
+					ansS = "Your best score in level "+level+" is: "+ans;
+				else
+					ansS = "There's no such stage, try again";
+				JOptionPane.showMessageDialog(f,ansS);
+			}catch (Exception err) {
+				String catchStr = "Invalid input";
+				JOptionPane.showMessageDialog(f,catchStr);
+				return;
+			}	
 		}
 		else if(e.getActionCommand().equals("Top level")) {
-			JFrame f=new JFrame();
-			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
-			int ans = SimpleDB.getTopLevel(id);
-			JOptionPane.showMessageDialog(f,ans);
+			
+			String topLvl = "Your top level is " + SimpleDB.getTopLevel(id);
+			JOptionPane.showMessageDialog(f,topLvl);
 		}
 		else if(e.getActionCommand().equals("Number of logins")) {
-			JFrame f=new JFrame();
-			int id=Integer.parseInt(JOptionPane.showInputDialog(f,"Enter id"));
-			int ans = SimpleDB.getCountEntersDB(id);
-			JOptionPane.showMessageDialog(f,ans);
+			
+			String numOfLogins = "You entered the server " + SimpleDB.getCountEntersDB(id) + " times.";
+			JOptionPane.showMessageDialog(f, numOfLogins);
 		}
+		
+		else if(e.getActionCommand().equals("My rank")) {
+			int[][] result = SimpleDB.getRankInAllLevels(id);
+			String myRank="";
+			for (int j = 0; j < result[0].length; j++) {
+				myRank+="In level "+result[0][j] +" ,your rank is: "+result[1][j]+"\n";
+			}
+			
+			JOptionPane.showMessageDialog(f, myRank);
+		}
+
 	}
-
-
 
 
 	/***************************************************************************

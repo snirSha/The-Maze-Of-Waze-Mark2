@@ -23,15 +23,52 @@ public class SimpleDB {
 		int id1 = 204040687;  // "dummy existing ID  
 		int level = 23;
 		//allUsers();
-		System.out.println("getCountEntersDB: "+getCountEntersDB(id1));
-		System.out.println("getBestScore in level "+level+": "+getBestScore(id1,level));
-		System.out.println("getTopLevel: "+getTopLevel(id1));
+		//System.out.println("getCountEntersDB: "+getCountEntersDB(id1));
+		//System.out.println("getBestScore in level "+level+": "+getBestScore(id1,level));
+		//System.out.println("getTopLevel: "+getTopLevel(id1));
+		int[][] rali=getRankInAllLevels(id1);
+		for (int i = 0; i < rali.length; i++) {
+			for (int j = 0; j < rali[i].length; j++) {
+				System.out.print(rali[i][j]+",");
+			}
+			System.out.println();
+		}
+		
+		
+		
 		//printLog();
 		//String kml = getKML(id1,level);
 		//System.out.println("** KML file example: ***");
 		//System.out.println(kml);
 	}
-	///////////////////////snir's shit//////////////////////////////////////////////////////////////////////////
+	
+	/*
+	 * check if the given id is in the list of users
+	 * @param id
+	 * @return
+	 */
+	public static boolean isContainsID(int id) {
+		boolean bool = false;
+		
+		String allCustomersQuery = "SELECT * FROM Users where userID="+id+";";
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection connection = 
+					DriverManager.getConnection(jdbcUrl, jdbcUser, jdbcUserPassword);		
+			Statement statement = connection.createStatement();
+			ResultSet resultSet = statement.executeQuery(allCustomersQuery);
+			if(resultSet!=null && resultSet.next()) {
+				bool = true;
+			}
+		}
+		catch (Exception sqle) {
+			System.out.println("SQLException: " + sqle.getMessage());
+			System.out.println("Vendor Error: " + ((SQLException) sqle).getErrorCode());
+		}
+		return bool;
+	}
+	
+	
 	public static int getCountEntersDB(int idT) {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
@@ -159,68 +196,59 @@ public class SimpleDB {
 		}
 		return -1;
 	}
-	////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	///////////////////////omer's shit/////////////////////////////////////////////////////////////////////////////
-	//	public static String getStats(int id) {
-	//		StringBuilder sb = new StringBuilder();
-	//
-	//
-	//		try {
-	//			Class.forName("com.mysql.jdbc.Driver");
-	//			Connection connection = 
-	//					DriverManager.getConnection(jdbcUrl, jdbcUser, jdbcUserPassword);
-	//			Statement statement = connection.createStatement();
-	//			int case0 = 0, case1 = 1, case2 = 3, case3 = 5, case4 = 9, case5 = 11, case6 = 13, case7 = 16, case8 = 19, case9 = 20, case10 = 23;
-	//			String case0Query = "SELECT DISTINCT MAX(score) FROM Logs WHERE UserID<>"+id+" AND levelID="+case0+" AND score>=145 AND moves<=290;";
-	//			String case1Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case1+" AND score>=450 AND moves<=580;";
-	//			String case2Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case2+" AND score>=720 AND moves<=580;";
-	//			String case3Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case3+" AND score>=570 AND moves<=500;";
-	//			String case4Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case4+" AND score>=510 AND moves<=580;";
-	//			String case5Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case5+" AND score>=1050 AND moves<=580;";
-	//			String case6Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case6+" AND score>=310 AND moves<=580;";
-	//			String case7Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case7+" AND score>=235 AND moves<=290;";
-	//			String case8Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case8+" AND score>=250 AND moves<=580;";
-	//			String case9Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case9+" AND score>=200 AND moves<=290;";
-	//			String case10Query = "SELECT DISTINCT UserID FROM Logs WHERE UserID<>"+id+" AND levelID="+case10+" AND score>=1000 AND moves<=1140;";
-	//			String cases[] = new String[11];
-	//			cases[0] = case0Query;
-	//			cases[1] = case1Query;
-	//			cases[2] = case2Query;
-	//			cases[3] = case3Query;
-	//			cases[4] = case4Query;
-	//			cases[5] = case5Query;
-	//			cases[6] = case6Query;
-	//			cases[7] = case7Query;
-	//			cases[8] = case8Query;
-	//			cases[9] = case9Query;
-	//			cases[10] = case10Query;
-	//
-	//			ResultSet resultSet = statement.executeQuery(case0Query);
-	//			int i = 0;
-	//			while(resultSet.next()){
-	//
-	//				System.out.println("Score: " + resultSet.getInt("MAX(score)"));//+","+resultSet.getInt("levelID")+","+resultSet.getInt("moves")+","+resultSet.getInt("score"));//+","+resultSet.getDate("time"));
-	//
-	//			}
-	//
-	//			resultSet.close();
-	//			statement.close();
-	//			connection.close();
-	//
-	//
-	//		}
-	//		catch (SQLException sqle) {
-	//			System.out.println("SQLException: " + sqle.getMessage());
-	//			System.out.println("Vendor Error: " + sqle.getErrorCode());
-	//		}
-	//		catch (ClassNotFoundException e) {
-	//			e.printStackTrace();
-	//		}
-	//
-	//
-	//		return sb.toString();
-	//	}
-	////////////////////////END our shit/////////////////////////////////////////////////////////////////////////
+
+
+	public static int[][] getRankInAllLevels(int idT) {
+		int [][] ranks=new int[2][11];
+		int i=0;
+		for(int lev=0; lev<24 ; lev++) {
+			if(lev!=0 && lev!=1 && lev!=3 && lev!=5 && lev!=9 && lev!=11 && lev!=13 && lev!=16 && lev!=19 && lev!=20 && lev!=23)
+				continue;
+			else {
+					ranks[0][i]=lev;
+					ranks[1][i]=getRank(lev);
+					i++;
+			}
+		}
+		return ranks;
+	}
+	
+	
+	public static int getRank(int lev) {
+		int myBestScore=getBestScore(204040687,lev);
+		int moveBound=getMoveBoudary(lev);
+
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection connection = 
+					DriverManager.getConnection(jdbcUrl, jdbcUser, jdbcUserPassword);
+			Statement statement = connection.createStatement();
+			String allCustomersQuery = "SELECT UserID,MAX(score) FROM Logs WHERE UserID<>0 AND UserID<>999 AND UserID<>204040687 AND moves<="+moveBound+" AND levelID="+lev+" Group by UserID;";
+			ResultSet resultSet = statement.executeQuery(allCustomersQuery);
+			int countBetterThanMe=0;
+			int otherPlayerScore;
+			while(resultSet.next())
+			{
+				otherPlayerScore=resultSet.getInt("MAX(score)");
+				if(otherPlayerScore>myBestScore) {
+					countBetterThanMe++;
+				}
+			}
+			resultSet.close();
+			statement.close();		
+			connection.close();
+			return (countBetterThanMe+1);
+		}
+
+		catch (SQLException sqle) {
+			System.out.println("SQLException: " + sqle.getMessage());
+			System.out.println("Vendor Error: " + sqle.getErrorCode());
+		}
+		catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		return -1;	
+	}
 
 	/** simply prints all the games as played by the users (in the database).
 	 * 

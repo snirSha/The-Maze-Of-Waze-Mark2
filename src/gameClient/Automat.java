@@ -39,7 +39,6 @@ public class Automat{
 		this.mgg = mgg;
 		ga = mgg.ga;
 		game = gameAutoScenario(s);
-	//	currentLevel=s;
 		mgg.initFruits(game);
 		mgg.initRobots(game);
 
@@ -48,13 +47,7 @@ public class Automat{
 	}
 
 
-//	public int getCurrentLevel() {
-//		return currentLevel;
-//	}
-//	public int getBestScore(int levelTmp) {
-//		
-//	}
-	
+
 	/**
 	 * starting the auto game
 	 * @param game
@@ -91,8 +84,8 @@ public class Automat{
 		System.out.println(remark);
 		game.sendKML(remark);
 		mgg.displayFinalScore(game);
-		kml.saveToFile("" + scenario);
-		//mgg.askToSaveKml(kml, scenario);
+		//kml.saveToFile("" + scenario);
+		mgg.askToSaveKml(kml, scenario);
 
 	}
 
