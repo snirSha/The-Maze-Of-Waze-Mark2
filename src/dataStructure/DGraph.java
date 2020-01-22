@@ -9,7 +9,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import utils.Point3D;
-import utils.StdDraw;
 
 
 /*

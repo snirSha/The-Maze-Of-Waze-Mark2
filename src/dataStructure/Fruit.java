@@ -4,7 +4,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import utils.Point3D;
-import utils.StdDraw;
 
 public class Fruit {
 	

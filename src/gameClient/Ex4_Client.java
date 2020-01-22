@@ -53,14 +53,14 @@ public class Ex4_Client implements Runnable{
 		game_service game = Game_Server.getServer(scenario_num); // you have [0,23] games
 		
 		String g = game.getGraph();
-		List<String> fruits = game.getFruits();
+		//List<String> fruits = game.getFruits();
 		DGraph gg = new DGraph();
 		gg.init(g);
 		init(game);
 		
 		
 		game.startGame();
-		int ind=0;
+		//int ind=0;
 		long dt=100;
 		int jj = 0;
 		
@@ -87,7 +87,7 @@ public class Ex4_Client implements Runnable{
 				for(int i=0;i<stat.size();i++) {
 					System.out.println(jj+") "+stat.get(i));
 				}
-				ind++;
+				//ind++;
 				Thread.sleep(dt);
 				jj++;
 			}
@@ -112,9 +112,9 @@ public class Ex4_Client implements Runnable{
 	private static void moveRobots(game_service game, graph gg) {
 		List<String> log = game.move();
 		ArrayList<Point3D> rs = new ArrayList<Point3D>();
-		List<String> fs =  game.getFruits();
+		//List<String> fs =  game.getFruits();
 				if(log!=null) {
-			long t = game.timeToEnd();
+			//long t = game.timeToEnd();
 			
 			for(int i=0;i<log.size();i++) {
 				String robot_json = log.get(i);
@@ -127,7 +127,7 @@ public class Ex4_Client implements Runnable{
 					String p = ttt.getString("pos");
 					Point3D pp = new Point3D(p);
 					rs.add(pp);
-					double speed =  ttt.getInt("speed");
+					//double speed =  ttt.getInt("speed");
 								
 					if(dest==-1) {			
 						dest = nextNode(gg, src);
@@ -159,7 +159,7 @@ public class Ex4_Client implements Runnable{
 	private void init(game_service game) {
 		
 		String g = game.getGraph();
-		List<String> fruits = game.getFruits();
+		//List<String> fruits = game.getFruits();
 		DGraph gg = new DGraph();
 		gg.init(g);
 
@@ -173,7 +173,7 @@ public class Ex4_Client implements Runnable{
 			// the list of fruits should be considered in your solution
 			Iterator<String> f_iter = game.getFruits().iterator();
 			while(f_iter.hasNext()) {System.out.println(f_iter.next());}	
-			int src_node = 0;  // arbitrary node, you should start at one of the fruits
+			//int src_node = 0;  // arbitrary node, you should start at one of the fruits
 			for(int a = 0;a<rs;a++) {
 				game.addRobot(a);
 			}
