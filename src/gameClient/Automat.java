@@ -89,7 +89,7 @@ public class Automat{
 
 	}
 
-	public synchronized void moveRobotsThread(){
+	public synchronized void moveRobotsThread(){ 
 		thread = new Thread(new Runnable() {
 
 			@Override
