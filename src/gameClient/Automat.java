@@ -19,7 +19,7 @@ import utils.StdDraw;
 
 
 public class Automat{
-//	static int currentLevel;
+
 	game_service game;
 	public Graph_Algo ga;
 	MyGameGUI mgg;
@@ -81,8 +81,8 @@ public class Automat{
 		}
 
 		String remark = kml.getLogOfGame();
-		System.out.println(remark);
-		game.sendKML(remark);
+		//System.out.println(remark);
+		System.out.println("Send KML to DB: " + game.sendKML(remark));
 		mgg.displayFinalScore(game);
 		//kml.saveToFile("" + scenario);
 		mgg.askToSaveKml(kml, scenario);
@@ -209,7 +209,7 @@ public class Automat{
 			JSONObject ttt = line.getJSONObject("GameServer");
 			rs = ttt.getInt("robots");
 		}catch (Exception e) {
-			System.out.println(e.getMessage());
+			e.printStackTrace();
 		}
 
 		int i = 0;
@@ -287,7 +287,7 @@ public class Automat{
 //			i++;
 //		}
 		
-
+		/*locate the robots near the first fruits on the list (not very smart but helps in some stages) */	
 		for (Fruit fruit : f) {
 			if(i >= rs)break;
 			if(!fruit.isTaken()) {

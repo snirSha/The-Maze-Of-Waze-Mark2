@@ -37,7 +37,7 @@ public class Management {
 			if(s == -1)
 				JOptionPane.showMessageDialog(null, "choose a valid scenario");
 			else if (s == -2) {
-				System.out.println("Exit");
+				System.out.println("Exiting game");
 				System.exit(-2);
 			}
 		}

@@ -210,8 +210,8 @@ public class MyGameGUI {
 						game.chooseNextEdge(rid, dest);
 						Robot r = robots.get(rid);
 						r.setNode(ga.dg.getNode(dest));
-						System.out.println("Turn to node: " + dest + "  time to end:" + (t / 1000));
-						System.out.println(ttt);
+						//System.out.println("Turn to node: " + dest + "  time to end:" + (t / 1000));
+						//System.out.println(ttt);
 					}
 				} 
 				catch (JSONException e) {e.printStackTrace();}
@@ -296,7 +296,7 @@ public class MyGameGUI {
 			}
 
 		}catch(Exception e) {
-			System.out.println("No nodes to draw");
+			System.err.println("No nodes to draw");
 		}
 	}
 
@@ -354,7 +354,7 @@ public class MyGameGUI {
 			}
 
 		}catch(Exception e) {
-			System.out.println("No edges to Draw");
+			System.err.println("No edges to Draw");
 		}
 	}
 
@@ -392,7 +392,7 @@ public class MyGameGUI {
 				drawNodes();
 			}
 		}catch(Exception e){
-			System.out.println("Nothing to draw");
+			System.err.println("Nothing to draw");
 		}
 	}
 
@@ -568,7 +568,7 @@ public class MyGameGUI {
 			StdDraw.text(xMin+tmp1 / 1.05 , yMin + tmp2, scoreStr);
 			
 		}catch (Exception e) {
-			System.out.println("Failed to print score");
+			System.err.println("Failed to print score");
 		}
 	}
 
