@@ -183,7 +183,7 @@ public class MyGameGUI {
 	public void moveRobotsManual(game_service game) {
 		List<String> log = game.move();
 		if(log != null) {
-			long t = game.timeToEnd();
+		//	long t = game.timeToEnd();
 			for(int i = 0; i < log.size(); i++) {
 				String robot_json = log.get(i);
 				try {

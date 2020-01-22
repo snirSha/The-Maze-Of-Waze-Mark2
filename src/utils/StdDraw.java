@@ -34,7 +34,7 @@ import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.MediaTracker;
 import java.awt.RenderingHints;
-import java.awt.Toolkit;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
@@ -69,9 +69,7 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
-import javax.swing.KeyStroke;
 
-import gameClient.Management;
 import gameClient.MyGameGUI;
 import gameClient.SimpleDB;
 
@@ -734,7 +732,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 		frame.setVisible(true);
 	}
 
-	// create the menu bar (changed to private)
+	// create the menu bar for our game
 	private static JMenuBar createMenuBar() {
 
 		JMenuBar menuBar = new JMenuBar();
@@ -760,6 +758,9 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	}
 
 
+	/*
+	 * adding buttons and use the functions in SimpleDB class
+	 */
 	@Override
 	public synchronized void actionPerformed(ActionEvent e) {
 		JFrame f=new JFrame();

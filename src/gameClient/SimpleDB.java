@@ -21,7 +21,7 @@ public class SimpleDB {
 	 */
 	public static void main(String[] args) {
 		int id1 = 204040687;  // "dummy existing ID  
-		int level = 23;
+		//int level = 23;
 		//allUsers();
 		//System.out.println("getCountEntersDB: "+getCountEntersDB(id1));
 		//System.out.println("getBestScore in level "+level+": "+getBestScore(id1,level));
@@ -45,7 +45,7 @@ public class SimpleDB {
 	/*
 	 * check if the given id is in the list of users
 	 * @param id
-	 * @return
+	 * @return bool - if contain id true , false if not  
 	 */
 	public static boolean isContainsID(int id) {
 		boolean bool = false;
@@ -69,6 +69,11 @@ public class SimpleDB {
 	}
 	
 	
+	/*
+	 *check in the DB how many times our id entered 
+	 *@param idT - the id of the user
+	 *@return count - how many times this id entered
+	 */
 	public static int getCountEntersDB(int idT) {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
@@ -98,7 +103,12 @@ public class SimpleDB {
 		return -1;
 	}
 
-
+	/*
+	 *check in the DB in this id and level what is the best score that meets the conditions of the moves and grade (of this level) 
+	 *@param idT - the id of the user
+	 *@param levelTmp - the map of the game the user chose
+	 *@return max - the best score in this level of this id and above the move boundary
+	 */
 	public static int getBestScore(int idT ,int levelTmp) {
 		if(levelTmp!=0 && levelTmp!=1 && levelTmp!=3 && levelTmp!=5 && levelTmp!=9 && levelTmp!=11 && levelTmp!=13 && levelTmp!=16 && levelTmp!=19 && levelTmp!=20 && levelTmp!=23)
 			return -1;
@@ -137,6 +147,10 @@ public class SimpleDB {
 
 	}
 
+	/*
+	 * An helper function that return the move boundary in each level we entered 
+	 * @param lev - the level we want to check
+	 */
 	private static int getMoveBoudary(int le) {
 		switch(le){
 		case 0:
@@ -166,7 +180,10 @@ public class SimpleDB {
 		}
 	}
 
-
+	/*
+	 * @param idT - the id of the user
+	 * @return maxLevel - the top level the id got to 
+	 */
 	public static int getTopLevel(int idT) {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
@@ -197,7 +214,11 @@ public class SimpleDB {
 		return -1;
 	}
 
-
+	/*
+	 *calculate all the ranks in each level (how many users get more score and best moves than us)
+	 *@param idT - the id of the user 
+	 *@return ranks - an 2d array with all the answers (first row - the level numbers , second row - the rank)
+	 */
 	public static int[][] getRankInAllLevels(int idT) {
 		int [][] ranks=new int[2][11];
 		int i=0;
@@ -213,7 +234,11 @@ public class SimpleDB {
 		return ranks;
 	}
 	
-	
+	/*
+	 * calculate a single rank in a level
+	 * @param lev - the level we ask for
+	 * @return countBetterThanMe - all the users that get a better score and moves than us in this level
+	 */
 	public static int getRank(int lev) {
 		int myBestScore=getBestScore(204040687,lev);
 		int moveBound=getMoveBoudary(lev);
@@ -308,6 +333,10 @@ public class SimpleDB {
 		}
 		return ans;
 	}
+	
+	/*
+	 * prints all the users in the DB
+	 */
 	public static int allUsers() {
 		int ans = 0;
 		String allCustomersQuery = "SELECT * FROM Users;";

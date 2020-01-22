@@ -26,7 +26,7 @@ public class Management {
 	public void ManagementGame() {
 		int w = manualOrAuto(); //0 for manual, 1 for auto
 		if(w == 0) {
-			mgg.InstructionForManual();
+			//mgg.InstructionForManual();
 		}else if(w == -1) {
 			return;
 		}

@@ -42,7 +42,7 @@ public class Ex4_Client implements Runnable{
 	public static void main(String[] a) {
 		//Thread client = new Thread(new Ex4_Client());
 		//client.start();
-		Management m=new Management(); 
+		new Management(); 
 	}
 	
 	@Override
