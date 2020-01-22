@@ -6,6 +6,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import Server.game_service;
+import utils.StdDraw;
 
 
 public class Management {
@@ -30,7 +31,11 @@ public class Management {
 		}else if(w == -1) {
 			return;
 		}
-
+		int id = pickID();
+		StdDraw.id = id;
+		
+		int topLvl = SimpleDB.getTopLevel(id);
+		
 		int s = -1;
 		while(s == -1) {
 			s = pickScenario();
@@ -39,6 +44,9 @@ public class Management {
 			else if (s == -2) {
 				System.out.println("Exiting game");
 				System.exit(-2);
+			}else if(topLvl < s) {
+				s = -1;
+				JOptionPane.showMessageDialog(null, "You need to pass level " + topLvl + " first");
 			}
 		}
 		if(w == 0) {
@@ -90,7 +98,7 @@ public class Management {
 	 * let the user pick scenario
 	 * @return
 	 */
-	public int pickScenario() {
+	private int pickScenario() {
 		JTextField SPDestField = new JTextField(5);
 		JPanel SPEdgePanel = new JPanel();
 
@@ -105,6 +113,31 @@ public class Management {
 				int sce = Integer.parseInt(SPDestField.getText());
 				if(sce <= 23 && sce >= 0) {
 					return sce;
+				}
+				else return -1;
+
+			}catch(Exception err) {
+				return -1;
+			}
+		}
+		return -2;	 //error happened or choose to cancel the game
+	}
+	
+	private int pickID() {
+		JTextField SPDestField = new JTextField(5);
+		JPanel SPEdgePanel = new JPanel();
+
+		SPEdgePanel.add(new JLabel("ID:"));
+		SPEdgePanel.add(SPDestField);
+
+		int SPEdgeRes = JOptionPane.showConfirmDialog(null, SPEdgePanel, 
+				"What is your ID?", JOptionPane.OK_CANCEL_OPTION);
+		if (SPEdgeRes == JOptionPane.OK_OPTION) {
+			try {
+
+				int id = Integer.parseInt(SPDestField.getText());
+				if(SimpleDB.isContainsID(id)) {
+					return id;
 				}
 				else return -1;
 

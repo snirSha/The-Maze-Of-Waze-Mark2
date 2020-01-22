@@ -482,7 +482,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 	public static MyGameGUI gg;
 	public static Point3D pointOfMouse;
 	public static char keyPress;
-	private static int id=-1;
+	public static int id = -1;
 
 	
 	public static void setGui(MyGameGUI g) {
