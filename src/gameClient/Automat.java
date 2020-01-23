@@ -41,12 +41,8 @@ public class Automat{
 		game = gameAutoScenario(s);
 		mgg.initFruits(game);
 		mgg.initRobots(game);
-
-
 		runAutoScenario(game);
 	}
-
-
 
 	/**
 	 * starting the auto game
@@ -214,35 +210,8 @@ public class Automat{
 
 		int i = 0;
 		Collection<Fruit> f = mgg.fruits.values();
-		Fruit biggestValue = null;
-		for (Fruit fruit0 : f) {
-			if (i >= rs)break;
-			biggestValue = null;
-			for (Fruit fruit1 : f) {
-				if (fruit0.getValue() > fruit1.getValue()) {
-					if(biggestValue == null || fruit0.getValue() > biggestValue.getValue() && !fruit0.isTaken()) {
-						biggestValue = fruit0;
-					}
-				}else {
-					if(biggestValue == null || fruit1.getValue() > biggestValue.getValue() && !fruit1.isTaken()) {
-						biggestValue = fruit1;
-					}
-				}
-			}
-			
-			edge_data e = biggestValue.getEdge();
-			int minNode = Math.min(e.getDest(), e.getSrc());
-			int maxNode = Math.max(e.getDest(), e.getSrc());
-			
-			if(biggestValue.getType() == -1) {
-				game.addRobot(maxNode);
-			}else {
-				game.addRobot(minNode);
-			}
-			biggestValue.setTaken(true);
-			i++;
-			
-		}
+		
+
 		
 		/*locate the robots near the highest value fruits */	
 //		Fruit biggestValue = null;

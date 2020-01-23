@@ -737,22 +737,28 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 
 		JMenuBar menuBar = new JMenuBar();
 		JMenu DB = new JMenu("Statistics");
+		JMenu User = new JMenu("User");
 		menuBar.add(DB);
+		menuBar.add(User);
 		JMenuItem bs = new JMenuItem("Best score");	
 		JMenuItem tl = new JMenuItem("Top level");	
 		JMenuItem nol = new JMenuItem("Number of logins");	
 		JMenuItem rank = new JMenuItem("My rank");	
+		JMenuItem changeID = new JMenuItem("Change ID");	
 
 		
 		bs.addActionListener(std);
 		tl.addActionListener(std);
 		nol.addActionListener(std);
 		rank.addActionListener(std);
-
+		changeID.addActionListener(std);
+		
+		
 		DB.add(bs);
 		DB.add(tl);
 		DB.add(nol);
 		DB.add(rank);
+		User.add(changeID);
 		
 		return menuBar;
 	}
@@ -824,7 +830,20 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
 			}
 			
 			JOptionPane.showMessageDialog(f, myRank);
+		}else if (e.getActionCommand().equals("Change ID")) {  
+			int tmpId = id;
+			String enterID = "Enter id";
+			String ID = JOptionPane.showInputDialog(f, enterID);
+			if(ID == null)return;
+			try {
+				id = Integer.parseInt(ID);
+				
+			}catch (Exception err) {
+				id = tmpId;
+			}
+			
 		}
+		
 
 	}
 

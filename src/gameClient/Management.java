@@ -111,7 +111,7 @@ public class Management {
 			try {
 
 				int sce = Integer.parseInt(SPDestField.getText());
-				if(sce <= 23 && sce >= 0) {
+				if((sce <= 23 && sce >= 0) || sce == -1 || sce == -31) {
 					return sce;
 				}
 				else return -1;
